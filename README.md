@@ -65,7 +65,7 @@ business workflows using modern web technologies.
 
 - 📧 Email: nikhilanande58@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/nikhik3112  
-- 🌐 Portfolio: https://nikhilanande.github.io  
+- 🌐 Portfolio: https://nikhil3112.github.io/nikhil-portfolio/  
 
 ---
 
